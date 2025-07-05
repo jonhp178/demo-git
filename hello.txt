@@ -1,1 +1,7 @@
-lan 2 hello github
+
+#include <stdio.h>
+
+int main(){
+	printf("hi\n");
+	return 0;
+}
