@@ -1,3 +1,7 @@
 noi dung dau 
+<<<<<<< HEAD
 xin chào GitHub
 hello
+=======
+xin chào github
+>>>>>>> 9af48e7d4210472db1c0fde96a5074be04214d17
