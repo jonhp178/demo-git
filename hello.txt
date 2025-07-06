@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 int main(){
 	printf("hello\n");
-	return 0;
-}
-=======
+	return
 
 #include <stdio.h>
 
@@ -13,4 +10,4 @@ int main(){
 	printf("hi\n");
 	return 0;
 }
->>>>>>> 9af48e7d4210472db1c0fde96a5074be04214d17
+
